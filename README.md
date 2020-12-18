@@ -1,4 +1,4 @@
-# ProjetoTeste
+
 Atividades efetuadas:
     - Criação pacote exec, contém todas as classes criadas.
     - Criação classe Main.java, para executar o projeto
